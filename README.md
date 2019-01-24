@@ -8,7 +8,7 @@
 ### Author: Matt
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/mattoattacko/React-Native/tree/master)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
